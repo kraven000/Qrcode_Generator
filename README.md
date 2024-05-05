@@ -36,7 +36,7 @@ pip3 install pillow qrcode
 
 ## Usage
 
-1. Run the Python script `qr_code_generator.py`.
+1. Run the Python script `qrcode_generator.py`.
 2. Enter the text for which you want to generate the QR code into the provided text entry field.
 3. Click the "Submit" button or press Enter.
 4. The generated QR code will be displayed on the screen.
